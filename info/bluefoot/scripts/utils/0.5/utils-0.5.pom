@@ -21,7 +21,7 @@ limitations under the License.
   <groupId>info.bluefoot.scripts</groupId>
   <artifactId>utils</artifactId>
   <packaging>jar</packaging>
-  <version>0.4</version>
+  <version>0.5</version>
 
   <name>general utility classes</name>
   <url>http://bluefoot.info</url>
